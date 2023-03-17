@@ -1,0 +1,7 @@
+**/.terraform
+*.tfvars
+*.tfstate
+*.backup
+
+/terraform-azure-course
+/terraform-course

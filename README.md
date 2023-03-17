@@ -1,0 +1,4 @@
+# IaC-study
+
+* terraform
+* Ansible
